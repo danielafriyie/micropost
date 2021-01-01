@@ -1,18 +1,18 @@
 {
   "posts": [
     {
-      "title": "Post One",
-      "body": "This is post one.",
+      "title": "JavaScript is Amazing",
+      "body": "I love programming in javascript. It's amazing.",
       "id": 1
     },
     {
-      "title": "Post Two.",
-      "body": "This is post two.",
+      "title": "I love programming.",
+      "body": "I enjoy programming. You can code anything that comes in your mind, oh! except coding an actual live human being, that'll be cool. Hope someone manages to create it.",
       "id": 2
     },
     {
-      "title": "Post Three",
-      "body": "This is post three updated.",
+      "title": "Python Rocks",
+      "body": "The best programming in the world. Python rocks.",
       "id": 3
     }
   ]
